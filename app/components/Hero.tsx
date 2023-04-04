@@ -1,9 +1,8 @@
 import React from 'react'
-import Typewriter from "typewriter-effect"
 
 export default function Hero() {
   return (
-    <div className='bg-[url("https://images.pexels.com/photos/7506673/pexels-photo-7506673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")] h-screen bg-cover bg-center bg-fixed flex items-center'>
+    <div className='bg-[url("https://images.pexels.com/photos/6347902/pexels-photo-6347902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")] h-screen bg-cover bg-center bg-fixed flex items-center'>
 
       <div className='container mx-auto px-10'>
 
@@ -13,19 +12,7 @@ export default function Hero() {
 
             <h1 className='text-5xl'> I&apos;m Asma Hanif </h1>
             <h4 className='text-2xl mt-3'> Frontend Developer
-              {/* <Typewriter
-              options={{
-                strings:[
-                  "Frontend Developer",
-                  "UI/UX Designer"
-                ],
-                changeDelay:3,
-                changeDeleteSpeed:2,
-                autoStart:true,
-                loop:true,
-              
-              }}
-              /> */}
+          
             </h4>
           </div>
           <div className='bg-[#ff4D41] h-[2px] w-[40px]'></div>

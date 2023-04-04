@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Whatido() {
   return (
-    <section className='container  mx-auto py-10 px-4'>
+    <section className='container  mx-auto py-10 px-4' id='what'>
     <h1 className='text-3xl'>What I Do</h1>
     <div className='bg-[#ff4D41] h-[2px] w-[40px] translate-y-[-15px] translate-x-[150px]'></div>
 

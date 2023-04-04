@@ -2,13 +2,13 @@ import React from 'react'
 
 export default function About() {
   return (
-    <section className='container  mx-auto py-10 px-4'>
+    <section className='container  mx-auto py-10 px-4' id='about'>
         <h1 className='text-3xl'>About Me</h1>
         <div className='bg-[#ff4D41] h-[2px] w-[40px] translate-y-[-15px] translate-x-[150px]'></div>
         
 <div className='grid grid-cols-1 md:grid-cols-2 gap-[60px]'>
 <div>
-    <img className='w-[400px] pt-10' src="https://images.pexels.com/photos/7506689/pexels-photo-7506689.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" />
+    <img className='w-[400px] pt-10' src="https://images.pexels.com/photos/6347901/pexels-photo-6347901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
 </div>
 
 <div >

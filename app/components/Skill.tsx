@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Skill() {
   return (
-    <section className='container  mx-auto py-10 px-4'>
+    <section className='container  mx-auto py-10 px-4' id='skill'>
     <h1 className='text-3xl'>Skills</h1>
     <div className='bg-[#ff4D41] h-[2px] w-[40px] translate-y-[-15px] translate-x-[80px]'></div>
 
